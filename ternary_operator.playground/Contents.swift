@@ -28,3 +28,12 @@ var gender2 = "F"
 
 let result6 = (gender2 == "M") ? "남자입니다" : (gender2 == "F") ? "여자입니다" : "잘못입력하셨습니다"
 
+// 삼항연산자 중첩 사용
+
+var select = "Y"
+var select1 = "N"
+var select2 = "메롱"
+
+let selected = (select == "Y") ? "YES!!!!!" : (select == "N") ? "NOPE!!!!!" : "YES와 NO 중에 골라주세요..."
+let selected1 = (select1 == "Y") ? "YES!!!!!" : (select1 == "N") ? "NOPE!!!!!" : "YES와 NO 중에 골라주세요..."
+let selected2 = (select2 == "Y") ? "YES!!!!!" : (select2 == "N") ? "NOPE!!!!!" : "YES와 NO 중에 골라주세요..."

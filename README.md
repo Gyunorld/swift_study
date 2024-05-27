@@ -1,1 +1,1 @@
-Swift 공부기
+Swift 공부기록
